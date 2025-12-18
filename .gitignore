@@ -1,0 +1,7 @@
+patient_records/*.json
+__pycache__/
+*.pyc
+models/
+piper/
+recording.wav
+*.wav

@@ -1,0 +1,10 @@
+vosk
+openai-whisper
+ollama
+streamlit
+sounddevice
+scipy
+numpy
+torch
+pydub
+requests
